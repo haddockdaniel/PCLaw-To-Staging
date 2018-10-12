@@ -1,0 +1,27 @@
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\PCLaw Split.exe.config
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\PCLaw Split.exe
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\PCLaw Split.pdb
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\PLConvert.dll
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\Interop.PLXMLLnkLib.dll
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\ConvHelper.dll
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw To Staging.csprojResolveAssemblyReference.cache
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw_To_Staging.Form1.resources
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw_To_Staging.Properties.Resources.resources
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw To Staging.csproj.GenerateResource.Cache
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw Split.exe
+C:\Users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw Split.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw Split\bin\x86\Debug\PCLaw Split.exe.config
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw Split\obj\x86\Debug\PCLaw Split.exe
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw Split\obj\x86\Debug\PCLaw Split.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\bin\x86\Debug\PCLaw Split.exe.config
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\obj\x86\Debug\PCLaw Split.exe
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\obj\x86\Debug\PCLaw Split.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\bin\x86\Debug\PCLaw Split.exe
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\bin\x86\Debug\PCLaw Split.pdb
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\bin\x86\Debug\PLConvert.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\bin\x86\Debug\Interop.PLXMLLnkLib.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\bin\x86\Debug\ConvHelper.dll
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\obj\x86\Debug\PCLaw To Staging.csprojResolveAssemblyReference.cache
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\obj\x86\Debug\PCLaw_To_Staging.Form1.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\obj\x86\Debug\PCLaw_To_Staging.Properties.Resources.resources
+C:\Users\haddocdx\Documents\Visual Studio 2012\Projects\PCLaw To Staging\PCLaw To Staging\obj\x86\Debug\PCLaw To Staging.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\PCLaw Split.exe.config
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\PCLaw Split.exe
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\PCLaw Split.pdb
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\PLConvert.dll
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\Interop.PLXMLLnkLib.dll
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\bin\x86\Debug\ConvHelper.dll
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw Split.csprojResolveAssemblyReference.cache
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw_Split.Form1.resources
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw_Split.Properties.Resources.resources
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw Split.csproj.GenerateResource.Cache
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw Split.exe
+c:\users\haddocdx\documents\visual studio 2012\Projects\PCLaw Split\PCLaw Split\obj\x86\Debug\PCLaw Split.pdb
